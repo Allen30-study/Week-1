@@ -1,5 +1,12 @@
 # Week 1
-> **2024.02.07**: 1주차 스터디 개인 답변
+> **2024.02.07**: 1주차 스터디 개인 답변<br>
+> 변수와 상수<br>
+> 기본연산자<br>
+> 프로그래밍의 기본 원리와 조건문<br>
+> 튜플<br>
+> 삼항연산자와 범위연산자<br>
+> 반복문<br>
+> 함수<br>
 - [컴퓨터 시스템에서 CPU의 주요 기능은 무엇입니까?](https://github.com/Allen30-study/Week-1/blob/main/01_%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%20CPU%EC%9D%98%20%EC%A3%BC%EC%9A%94%20%EA%B8%B0%EB%8A%A5%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C%3F.md)
 - [데이터는 RAM에 어떻게 저장됩니까?](https://github.com/Allen30-study/Week-1/blob/main/02_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94%20RAM%EC%97%90%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%A0%80%EC%9E%A5%EB%90%A9%EB%8B%88%EA%B9%8C%3F.md)
 - [음수는 2의 보수를 사용하여 메모리에 어떻게 표시됩니까?](https://github.com/Allen30-study/Week-1/blob/main/03_%EC%9D%8C%EC%88%98%EB%8A%94%202%EC%9D%98%20%EB%B3%B4%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%97%90%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%91%9C%EC%8B%9C%EB%90%A9%EB%8B%88%EA%B9%8C%3F.md)
